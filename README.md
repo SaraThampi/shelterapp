@@ -11,7 +11,7 @@ Deployment Link: https://shelterapp-homehorizon.onrender.com
 This mobile first application was made by Sara Thampi, James Diffey, Alexander Carr, Victoria Eyres, Jasim Chowdhury and Matthew Kirke as a part of School of Code 15th Bootcamp (Final Project)
 
 ## PROBLEM STATEMENT
-Homeless shelter staff report communication issues, lack of organisation, and inefficient record*keeping resulting in wasted time, duplication of efforts, and challenges in accessing and sharing data about service users. They need a way to record service user details easily on hardware  accessible to them, and reduce any trauma during the documentation process.
+Homeless shelter staff report communication issues, lack of organisation, and inefficient record-keeping resulting in wasted time, duplication of efforts, and challenges in accessing and sharing data about service users. They need a way to record service user details easily on hardware  accessible to them, and reduce any trauma during the documentation process.
 
 ## SOLUTION OVERVIEW
 A mobile app that allows staff members to access service user information from an easily accessible database. A checklist to improve the onboarding process for both staff members and potential service users and a list of relevant  referral services in one place.
